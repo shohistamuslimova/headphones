@@ -1,0 +1,107 @@
+.first__headphones-wrapper {
+  margin-top: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero__text-1 {
+  width: 445px;
+  height: 343px;
+  flex-shrink: 0;
+}
+
+.hero__title-1 {
+  color: $brown-color;
+  font-family: "Manrope";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+}
+.hero__first-title-1 {
+  margin-top: 1.6rem;
+  color: $black-one-color;
+  font-family: "Manrope";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 44px; /* 110% */
+  letter-spacing: 1.429px;
+  text-transform: uppercase;
+}
+.hero__paragrph-1 {
+  margin-top: 3.2rem;
+  color: $black-one-color;
+  font-family: "Manrope";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 25px;
+  opacity: 0.5; /* 166.667% */
+  margin-bottom: 40px;
+}
+.brown-btn {
+}
+.btn {
+}
+.main__firstimage {
+  padding-right: 94px;
+  padding-left: 94px;
+  padding-top: 68px;
+  padding-bottom: 100px;
+  border-radius: 8px;
+  background: #f1f1f1;
+}
+.four__wrapper-2 {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+.four__text {
+}
+.four__tittle {
+  color: $black-one-color;
+  font-family: "Manrope";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 44px; /* 110% */
+  letter-spacing: 1.429px;
+  text-transform: uppercase;
+  margin-bottom: 32px;
+}
+.span {
+  color: #d87d4a;
+  font-family: "Manrope";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 1.429px;
+  text-transform: uppercase;
+}
+.four__paragraph {
+  width: 445px;
+  color: $black-one-color;
+  font-family: "Manrope";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  opacity: 0.5;
+  line-height: 25px; /* 166.667% */
+}
+.four__image {
+}
+
+.socials {
+  cursor: pointer;
+}
+.instagram__link:hover {
+  color: $brown-color;
+}
+.man__image {
+  border-radius: 8px;
+}
